@@ -1,6 +1,6 @@
 # C-Sharp-Projects
 
-<Project ideas inspired by: https://github.com/karan/Projects>
+<Project ideas inspired by: https://github.com/karan/Projects >
 
 ## ConsoleCoinFlip
 Simple coin flip application in console.

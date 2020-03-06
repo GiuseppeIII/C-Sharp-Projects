@@ -11,9 +11,9 @@ namespace eToNth
             bool goodInput = true;
             bool goAgain = false;
 
-            //test input
             do
             {
+                //test input
                 do
                 {
                     goodInput = true;
@@ -35,8 +35,10 @@ namespace eToNth
                     }
                 } while (goodInput == false);
 
-                //
+                //give result
                 Console.WriteLine(Math.Round(e, Convert.ToInt16(digits) - 1));
+
+                //go again?
                 Console.WriteLine("Do you want to go again? (y/n)");
                 if (Console.ReadLine().ToLower() == "y")
                 {

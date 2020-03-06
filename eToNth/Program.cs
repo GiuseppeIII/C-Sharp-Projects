@@ -44,7 +44,7 @@ namespace eToNth
                 {
                     goAgain = true;
                 }
-                else
+                else 
                 {
                     goAgain = false;
                 }

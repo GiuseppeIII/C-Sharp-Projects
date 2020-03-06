@@ -1,8 +1,9 @@
 # C-Sharp-Projects
 
 <Project ideas inspired by: https://github.com/karan/Projects>
-##ConsoleCoinFlip
+
+## ConsoleCoinFlip
 Simple coin flip application in console.
 
-##eToNth
+## eToNth
 Displays e to variable decimal places.

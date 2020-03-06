@@ -9,7 +9,7 @@ namespace ConsoleCoinFlip
 						Random coin = new Random();
 						int heads=0;
 						int tails=0;
-            Console.WriteLine("Welcome to the Console Coint Flip simulator! \nTo flip a coin press any key, to see this sessions stats press enter, to stop press escape.");
+						Console.WriteLine("Welcome to the Console Coint Flip simulator! \nTo flip a coin press any key, to see this sessions stats press enter, to stop press escape.");
 						while (true){
 							System.ConsoleKey Key = Console.ReadKey().Key;
 							if (Key == ConsoleKey.Enter){

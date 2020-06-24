@@ -1,5 +1,5 @@
 # C-Sharp-Projects
-Very Basic
+Very Basic C Sharp programs, use mono to compile and run
 
 ## ConsoleCoinFlip
 Simple coin flip application in console.
